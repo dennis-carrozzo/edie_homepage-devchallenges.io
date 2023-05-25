@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card:hover {
+    cursor: pointer;
+  }
+
+  .card:hover button {
+    background-color: theme('colors.primary');
+    color: theme('colors.white');
+  }
+}

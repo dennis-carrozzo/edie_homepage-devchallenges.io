@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://edie-homepage-devchallenges-io.vercel.app/">
+    <a href="https://edie-homepage-challenge.vercel.app/">
       Demo
     </a>
     <span> | </span>
